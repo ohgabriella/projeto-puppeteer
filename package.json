@@ -1,0 +1,17 @@
+{
+  "name": "projeto-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guardarTimes.js",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "puppeteer": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
