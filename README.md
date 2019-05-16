@@ -31,7 +31,7 @@ Preste atenção, que será necessário criar pastas para guardar os dados da au
 ## Caso você queira fazer um projeto do zero
 
     -Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
-    > [Node](https://nodejs.org/en/)
+    [Node](https://nodejs.org/en/)
 
     -Depois disso, é só seguir os passos abaixo.
  
