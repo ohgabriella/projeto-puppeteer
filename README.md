@@ -6,6 +6,9 @@ Já o Jest é um framewoork de teste, criado pelo Facebook e escrito também em 
 
 ## Para utilizar esse projeto
 
+Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
+[Node](https://nodejs.org/en/)
+
 Após clonar o repositório, na pasta do projeto você escreverá o seguinte comando:
 
 > npm install
@@ -30,10 +33,7 @@ Preste atenção, que será necessário criar pastas para guardar os dados da au
 
 ## Caso você queira fazer um projeto do zero
 
-    -Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
-    [Node](https://nodejs.org/en/)
-
-    -Depois disso, é só seguir os passos abaixo.
+    Caso já tenho o node instalado, é só seguir os passos abaixo.
  
 ### Instalar o Puppeteer
 
