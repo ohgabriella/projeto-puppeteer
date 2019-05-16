@@ -12,7 +12,7 @@ Após clonar o repositório, na pasta do projeto você escreverá o seguinte com
 
 
 Com isso todas as bibliotecas node que utilizei nesse projeto serão inseridas novamente na pasta do seu.
-Obs: Preste atenção, que será necessário criar pastas para guardar os dados da automação, elas serão a pasta: json, pdfs e screenshots.
+Preste atenção, que será necessário criar pastas para guardar os dados da automação, elas serão a pasta: json, pdfs e screenshots.
 
 ## Como rodar a automação no puppeteer?
 
@@ -31,7 +31,7 @@ Obs: Preste atenção, que será necessário criar pastas para guardar os dados 
 ## Caso você queira fazer um projeto do zero
 
     -Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
-     [Node](https://nodejs.org/en/)
+    > [Node](https://nodejs.org/en/)
 
     -Depois disso, é só seguir os passos abaixo.
  
