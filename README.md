@@ -21,7 +21,7 @@ Preste atenção, que será necessário criar pastas para guardar os dados da au
 
     Acesse o cmd no seu repositório e escreva:
 
-    - node node_do_projeto.js
+    - node nome_do_projeto.js
     
 
 ## Como rodar o teste no Jest?
@@ -43,7 +43,7 @@ Preste atenção, que será necessário criar pastas para guardar os dados da au
     
 ### Instalar o Jest
     
-    Digite o seguinte comando:
+    No seu cmd digite o seguinte comando:
     
     - npm install --save-dev jest
     
