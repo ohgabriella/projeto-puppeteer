@@ -9,7 +9,7 @@ Já o Jest é um framewoork de teste, criado pelo Facebook e escrito também em 
 Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
 [Node](https://nodejs.org/en/)
 
-Após clonar o repositório, na pasta do projeto você escreverá o seguinte comando:
+Após clonar o repositório, abra o cmd, coloque o caminho da pasta do projeto e escreva o seguinte comando:
 
 > npm install
 
