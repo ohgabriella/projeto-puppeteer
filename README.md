@@ -8,7 +8,7 @@ Já o Jest é um framewoork de teste, criado pelo Facebook e escrito também em 
 
 Após clonar o repositório, na pasta do projeto você escreverá o seguinte comando:
 
-- npm install
+> npm install
 
 
 Com isso todas as bibliotecas node que utilizei nesse projeto serão inseridas novamente na pasta do seu.
@@ -31,34 +31,30 @@ Obs: Preste atenção, que será necessário criar pastas para guardar os dados 
 ## Caso você queira fazer um projeto do zero
 
     -Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
-     [Node](https://nodejs.org/en/).
+     [Node](https://nodejs.org/en/)
 
     -Depois disso, é só seguir os passos abaixo.
  
 ### Instalar o Puppeteer
 
-    - Na pasta do seu repositório, digite o comando:
+    Na pasta do seu repositório, digite o comando:
     
-    '''
-    npm i puppeteer
-    '''
+    - npm i puppeteer
+    
 ### Instalar o Jest
     
     Digite o seguinte comando:
     
-    '''
-    npm install --save-dev jest
-    '''
+    - npm install --save-dev jest
+    
     Gere o package.json:
 
-    '''
-    npm init –y
-    '''
+    - npm init –y
+
     Dentro do package.json, insira:
 
-    '''
-    "scripts": { "test": "jest" }
-    '''
+    - "scripts": { "test": "jest" }
+
 
     
 
