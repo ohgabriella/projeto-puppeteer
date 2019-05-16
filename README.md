@@ -1,4 +1,4 @@
-# Automação end-to-end com puppeteer e jest
+﻿# Automação end-to-end com puppeteer e jest
 
 O Puppeteer, criado pelo pessoal do Google, é uma biblioteca do node que fornece uma API de alto nível para controlar o Chrome e Chromium, através do protocolo DevTools. 
 Ele é escrito em JavaScript e é super fácil de ser utilizado.
