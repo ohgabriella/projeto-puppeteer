@@ -37,7 +37,7 @@ Obs: Preste atenção, que será necessário criar pastas para guardar os dados 
 ## Caso você queira fazer um projeto do zero
 
     -Antes de tudo você precisa ter o node instalado na sua máquina. Você encontra ele nesse site:
-     [Node] (https://nodejs.org/en/)
+     [Node](https://nodejs.org/en/).
 
     -Depois disso, é só seguir os passos abaixo.
  
@@ -51,19 +51,19 @@ Obs: Preste atenção, que será necessário criar pastas para guardar os dados 
     '''
 ### Instalar o Jest
     
-    -Digite o seguinte comando:
+    Digite o seguinte comando:
     
     '''
     npm install --save-dev jest
 
     '''
-    - Gere o package.json:
+    Gere o package.json:
 
     '''
     npm init –y
 
     '''
-    - Dentro do package.json, insira:
+    Dentro do package.json, insira:
 
     '''
     "scripts": { "test": "jest" }
